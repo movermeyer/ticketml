@@ -1,4 +1,4 @@
-# ticketml [![Build Status](https://travis-ci.org/lukegb/ticketml.svg?branch=master)](https://travis-ci.org/lukegb/ticketml) [![PyPI Version](https://pypip.in/version/ticketml/badge.svg?style=flat)](https://pypi.python.org/pypi/ticketml)
+# ticketml [![Build Status](https://travis-ci.org/lukegb/ticketml.svg?branch=master)](https://travis-ci.org/lukegb/ticketml) [![PyPI Version](https://img.shields.io/pypi/v/ticketml.svg?style=flat)](https://pypi.python.org/pypi/ticketml)
 A small XML-based markup language for tickets
 
 Why?
